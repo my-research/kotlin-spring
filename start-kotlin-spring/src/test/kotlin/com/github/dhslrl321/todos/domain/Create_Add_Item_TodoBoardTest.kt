@@ -5,7 +5,7 @@ import io.kotest.core.spec.style.ShouldSpec
 import io.kotest.matchers.shouldBe
 import java.lang.IllegalArgumentException
 
-class TodoBoardTest : ShouldSpec({
+class Create_Add_Item_TodoBoardTest : ShouldSpec({
     context("todoBoard 가 생성되고") {
         val actual = TodoBoard.newInstance()
 
