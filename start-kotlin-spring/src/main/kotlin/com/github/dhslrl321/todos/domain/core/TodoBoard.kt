@@ -1,4 +1,4 @@
-package com.github.dhslrl321.todos.domain
+package com.github.dhslrl321.todos.domain.core
 
 import com.github.dhslrl321.todos.support.genId
 import java.time.LocalDateTime

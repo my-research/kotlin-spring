@@ -1,5 +1,7 @@
 package com.github.dhslrl321.todos.domain
 
+import com.github.dhslrl321.todos.domain.core.TodoItem
+import com.github.dhslrl321.todos.domain.core.TodoStatus
 import io.kotest.core.spec.style.ShouldSpec
 import io.kotest.matchers.shouldBe
 
